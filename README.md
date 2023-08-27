@@ -1,6 +1,8 @@
 # MineCrack
 This For Making Minecraft Windows 10 ( bedrock ) Unlimited trials time + You Can Join Server
 
+
+Note: Download This As Zip Dont Download Only The Bat File LMFAOOO U NEED ALL THE FILES 
 # How to Use
 1. install Minecraft For windows in microsoft store
 2. after install running the bat file and then press option number 2
